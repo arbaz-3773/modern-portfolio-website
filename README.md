@@ -13,4 +13,4 @@ A responsive portfolio project built using HTML, CSS, and JavaScript.
 HTML, CSS, JavaScript
 
 ## Author
-Your Name
+arbaz
