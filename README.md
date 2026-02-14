@@ -1,2 +1,16 @@
-# modern-portfolio-website
-Responsive portfolio website with contact form, flip card animation, dark mode toggle, and JavaScript validation.
+# Modern Portfolio Website
+
+A responsive portfolio project built using HTML, CSS, and JavaScript.
+
+## Features
+- Responsive layout
+- Contact form with validation
+- Flip card animation
+- Dark/Light mode toggle
+- Smooth UI interactions
+
+## Technologies Used
+HTML, CSS, JavaScript
+
+## Author
+Your Name
